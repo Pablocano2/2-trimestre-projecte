@@ -8,7 +8,7 @@ def descomposar(x):
                 factors[divisor] += 1
             else:
                 factors[divisor] = 1
-            x //= divisor
+            x=x // divisor
         divisor += 1
     return factors
 
