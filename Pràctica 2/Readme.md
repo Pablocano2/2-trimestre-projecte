@@ -29,7 +29,7 @@
 
 ### 6. Anàlisi dels resultats i conclusions
 
-- Els grafics mostran que els nombres d'iteracions de l'algoritme d'Euclides és mes gran quan els nombres són coprimers i menor quan un és múltiple de l'altre, seguint un patro simetric.
+- Els grafics mostren que els nombres d'iteracions de l'algoritme d'Euclides és mes gran quan els nombres són coprimers i menor quan un és múltiple de l'altre, seguint un patro simetric.
 
 ### 7. Dificultats i Solucions
 
