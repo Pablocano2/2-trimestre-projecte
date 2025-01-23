@@ -5,7 +5,7 @@ rang = 3 # Els nombres poden anar de l'1 al 3.
 longitud = 5 # La llista estarà composta per 5 elements.
 
 llista = genera_llista(rang, longitud)
-
+       
 print(f'La llista inicial és: {llista}')
 
 llista_elements, num_repeticions = compta_repeticions(llista)
