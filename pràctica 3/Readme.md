@@ -6,10 +6,7 @@
 
 ### 3. Anàlisi del Problema i Estratègia de solució
 
-- Identificació dels elements clau del problema: variables, objectius i restriccions.
-- Explicació breu del procés analític seguit per entendre el problema.
-- Descripció de l’algorisme o plantejament utilitzat per resoldre el problema.
-- Representació del flux de treball (opcionalment un diagrama de flux).
+- 
 
 ### 4. Implementació
 
@@ -19,13 +16,16 @@
 
 ### 5. Resultats Obtinguts
 
-- Captures de pantalla, imatges o exemples de les sortides del programa (si s'escau).
+- PS C:\Users\PabloCanoGuevara\Desktop\Programació\2-trimestre-projecte> & "C:/Program Files/Python312/python.exe" "c:/Users/PabloCanoGuevara/Desktop/Programació/2-trimestre-projecte/pràctica 3/main.py"
+- La llista inicial és: [1, 2, 2, 2, 1]
+- Elements que formen la llista: [1, 2, 2, 2, 1]
+- Nombre de repeticions de cada element de la llista: [2, 3, 3, 3, 2]
+- Llista d'elements ordenada: [1, 1, 2, 2, 2]
+
 
 ### 6. Anàlisi dels resultats i conclusions
 
-- Anàlisi dels resultats: validació respecte a la solució esperada.
-- Conclusions respecte als resultats obtinguts.
-- Respondre preguntes proposades a la pràctica (si s'escau).
+-En el prrimer resultats indica la llista que s'ha generat automaticament, despres ens diu els elements que formen la llista i seguidament el nombre de repeticions de cada element de la llista i per ultim la llista ordenada.
 
 ### 7. Dificultats i Solucions
 
