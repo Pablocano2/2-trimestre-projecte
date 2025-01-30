@@ -17,6 +17,3 @@ llista_ordenada = ordena_manual(llista_elements)
 
 print(f'Llista d\'elements ordenada: {llista_ordenada}')
 
-llista_ordenada = ordena_manual(llista_elements)
-
-print(f'Llista ordenada: {llista_ordenada}')

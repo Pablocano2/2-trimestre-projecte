@@ -20,7 +20,14 @@ def compta_repeticions(llista):
     return llista_elements, num_repeticions
 
 
-    return None
 
 def ordena_manual(llista):
-    return None
+    llista_ordenada = llista[:]
+
+    for i in range(len(llista_ordenada)):
+        for j in range(i + 1, len(llista_ordenada)):
+            if llista_ordenada[i] > llista_ordenada[j]:
+                llista_ordenada[i], llista_ordenada[j] = llista_ordenada[j], llista_ordenada[i]
+
+    return llista_ordenada
+
